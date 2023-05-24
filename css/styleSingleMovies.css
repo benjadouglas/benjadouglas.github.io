@@ -59,14 +59,14 @@ body {
     font-size: 17px;
 }
 
-.single-movie-provider-div {
+#single-movie-provider-div {
     color: aliceblue;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.single-movie-provider{
+.single-movie-provider {
     font-family: "Trebuchet MS", sans-serif;
     font-size: 17px;
     text-align: center;
